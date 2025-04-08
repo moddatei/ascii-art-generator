@@ -51,10 +51,6 @@ ___   ___ _____
  \___/ \___//_/
 ```
 
-## License
-
-MIT
-
 ## Contributing
 
 Contributions, issues, and feature requests are welcome!
