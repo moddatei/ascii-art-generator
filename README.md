@@ -61,4 +61,4 @@ Contributions, issues, and feature requests are welcome!
 
 ## Author
 
-Your Name - [moddatei](https://github.com/moddatei)
+[moddatei](https://github.com/moddatei)
